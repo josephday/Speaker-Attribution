@@ -1,5 +1,5 @@
 # Speaker-Attribution
-Speaker Attribution using Markov Models -- assignment description can be located here https://www.classes.cs.uchicago.edu/archive/2016/winter/12200-1/pa/pa4/index.html
+Speaker Attribution using Markov Models
 
 Using Markov Models generated from text patterns of numerous speeches of known origin from two politicians A and B, identify the most likely origin of the third speech, A or B. 
 
